@@ -1,0 +1,2 @@
+# dataset
+Kompyuterli ko'rish
